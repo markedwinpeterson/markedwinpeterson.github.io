@@ -1,2 +1,2 @@
-# markedwinpeterson.github.io
-Student Project on Remix of Library Collections
+# REMIX
+Student Project on the Reworking of Library Collections
