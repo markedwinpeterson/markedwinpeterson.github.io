@@ -1,2 +1,2 @@
 # markedwinpeterson.github.io
-Student Project on Presidential Libraries
+Student Project on Remix of Library Collections
