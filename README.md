@@ -1,2 +1,2 @@
 # REMIX
-Student Project on the Reworking of Library Collections
+Student Project on the Reworking of of Images from Library Collections
