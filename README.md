@@ -1,42 +1,42 @@
 # Dissertation
 
 
-    Theory
-        History
-        Cultural Studies
-        Critical College Studies
-        Critical Librarianship
-        The Meaning Academic Special Collectons
+I.    Theory
+1.        History
+2.        Cultural Studies
+3.        Critical College Studies
+4.        Critical Librarianship
+5.        The Meaning Academic Special Collectons
 
-I.    History
+II.    History
         The Liberal Arts
         Building the American College
         Library Science
         Making Collections Special
         Special Collections Go to College
 
-    Cultural Studies
+III.    Cultural Studies
         The Politics of Culture
         Academic Discourse
         Reforming the Library
         Today's Political Economy
         Understanding the Digital
 
-    Critical College Studies
+IV.    Critical College Studies
         Students
         Employees
         Academia
         Alumni
         Society
 
-    Critical Librarianship
+V.    Critical Librarianship
         Collections
         Catalogs
         Patrons
         Donors
         The Archive
 
-    The Meaning of Academic Special Collections
+VI.    The Meaning of Academic Special Collections
         Preserving Heritage
         Teaching the Liberal Arts
         Maintaining Colleges
