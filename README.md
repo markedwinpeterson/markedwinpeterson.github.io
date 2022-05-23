@@ -1,8 +1,6 @@
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 I. Theory
 1. History
 2. Cultural Studies
